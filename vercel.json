@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/(.*)",
-        "destination": "https://integrate.api.nvidia.com/$1"
+        "destination": "https://cloudflare-doh-11.criopers.workers.dev/$1"
       }
     ],
     "headers": [
