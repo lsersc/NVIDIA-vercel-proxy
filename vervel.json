@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "https://aws-us.rrtesp.eu.org/$1"
+      }
+    ]
+}
