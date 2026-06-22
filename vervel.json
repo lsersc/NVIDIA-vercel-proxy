@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/(.*)",
-        "destination": "https://aws-us.rrtesp.eu.org/$1"
+        "destination": "https://apihub.agnes-ai.com/$1"
       }
     ],
     "headers": [
